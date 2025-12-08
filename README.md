@@ -70,7 +70,7 @@ The dashboard is designed to support fast, data-driven decisions by summarizing 
 ---
 
 ## Dashboard Preview
-![Just Store Dashboard] (https://github.com/onyedika39/Just_Store_Dashboard/blob/main/Just%20Store%20Dashboard.png)
+![Just Store Dashboard](https://github.com/onyedika39/Just_Store_Dashboard/blob/main/Just%20Store%20Dashboard.png)
 
 ---
 
