@@ -42,4 +42,5 @@ This project highlights retail analytics and executive-level data storytelling.
 
 ## Author
 
-Created by Michael Kenechukwu as part of a data analytics, business intelligence, and machine learning portfolio.
+Created by Michael Kenechukwu as part of a data analytics and business intelligence portfolio.
+
