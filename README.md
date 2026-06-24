@@ -2,6 +2,10 @@
 
 Executive Tableau dashboard analyzing Just Store sales, profit, quantity, segment, and regional performance.
 
+## Project Type
+
+Data analytics and business intelligence portfolio project.
+
 ## Objective
 
 This project is organized as a portfolio case study to show the full analysis workflow: understanding the business problem, preparing the data, exploring patterns, building the final output, and communicating insights clearly.
@@ -43,4 +47,5 @@ This project highlights retail analytics and executive-level data storytelling.
 ## Author
 
 Created by Michael Kenechukwu as part of a data analytics and business intelligence portfolio.
+
 
